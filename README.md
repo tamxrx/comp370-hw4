@@ -1,2 +1,2 @@
-# comp 370 - 2025
-Homework repository for comp 370
+# comp 370 - homework 4
+my little pony pony lines analysis
